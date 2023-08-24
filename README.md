@@ -25,5 +25,5 @@ To explore the functionality of this repository without violating copyright or t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Piyush6603/youtube_downloader.git
-cd youtube_downloader
+git clone https://github.com/Piyush6603/youtube_Downloader.git
+cd youtube_Downloader
